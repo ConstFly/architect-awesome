@@ -1,7 +1,9 @@
 
 <h1>《后端架构师技术图谱》</h1>
 
-![关注分享优质内容谢谢支持](http://cdn.changshiquan.cn/20180605122714.jpg)
+![关注分享优质内容谢谢支持](http://cdn.changshiquan.cn/2018060512271444.jpg)
+
+****关注分享优质内容谢谢支持****
 
 **最后更新于20180605**
 * [数据结构](https://github.com/oudahe/architect-awesome/blob/master/README.md#数据结构)
